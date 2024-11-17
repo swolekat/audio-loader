@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "audio-context": "^1.0.0",
-    "audio-decode": "^1.2.5",
+    "audio-decode": "^2.2.2",
     "is-absolute": "^0.2.6",
     "is-audio-buffer": "^1.0.8",
     "is-buffer": "^1.1.5",
